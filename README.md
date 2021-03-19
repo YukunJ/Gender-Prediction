@@ -1,6 +1,6 @@
-# Gender_Prediction_Fall2020_project
+# Gender Prediction Fall2020
 
-This is a machine-learning done in course <DS-GA-Introduction to Machine Learning> Fall2020.
+This is a machine-learning done in course <DS-GA-Introduction to Machine Learning> Fall2020 at NYU Center for Data Science, when I was a junior undergrad.
 
 Team memebr: Yukun, Jiang & Yuhao, Ding & Junming, Cui
 
